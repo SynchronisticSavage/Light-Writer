@@ -2,9 +2,10 @@ Light-Writer
 a simple openFrameworks program that lets you Write with Light
 
 original code Written By Patrick Long, updated by Synchronistic Savage of Open to Source
-OpentoSource.net
+http://OpentoSource.net
 
-tested on Ubuntu 12.04 with openFrameworks 0.8.4
+tested on Ubuntu 12.04 64bit with openFrameworks 0.8.4
+(if you have a 64bit linux system you may just be able to run the Bin File)
 
 openFrameworks is required to compile; visit http://www.openframeworks.cc/ to download
 
@@ -20,7 +21,7 @@ v = Video settings (seems to do nothing on linux...think it should pull up a cam
 m = mirror toggle
 n = flip toggle 
 
-space = save image
+space = save image (images are saved to bin/data/captures/)
 left mouse click = clear screen
 
 q,w,e = RGB 1 up
